@@ -4,7 +4,7 @@
 ---
 
 ## Question 1: Data Loading and Exploration
-**[15 marks]**
+
 
 The Online Retail dataset contains transactional data from a UK-based e-commerce business from 01-12-2010 to 09-12-2011. The dataset has 541,909 rows and 8 columns.
 
@@ -28,7 +28,7 @@ The Online Retail dataset contains transactional data from a UK-based e-commerce
 ---
 
 ## Question 2: Creating RFM Attributes
-**[25 marks]**
+
 
 Recency, Frequency, and Monetary (RFM) analysis is a technique used to segment customers. You will create three new attributes from the raw transactional data.
 
@@ -62,7 +62,7 @@ Recency, Frequency, and Monetary (RFM) analysis is a technique used to segment c
 ---
 
 ## Question 3: Data Preprocessing for Clustering
-**[20 marks]**
+
 
 Before applying K-Means, we need to preprocess the data.
 
@@ -85,7 +85,7 @@ Before applying K-Means, we need to preprocess the data.
 ---
 
 ## Question 4: Determining Optimal Clusters using Elbow Method
-**[20 marks]**
+
 
 ### a) Elbow Method:
 - Fit K-Means models for k = 2, 3, 4, 5, 6, 7, 8
@@ -109,7 +109,7 @@ Before applying K-Means, we need to preprocess the data.
 ---
 
 ## Question 5: Cluster Interpretation (Conceptual)
-**[20 marks]**
+
 
 ### a) Based on your K-Means model:
 - Calculate the mean values of Amount, Frequency, and Recency for each cluster
@@ -201,7 +201,7 @@ After completing this assignment, you should be able to:
 
 ---
 
-**Assignment Duration:** 3-4 hours  
+**Assignment Duration:** 2-3 hours  
 **Difficulty Level:** Intermediate  
-**Recommended for:** BBA/BMS 3rd Semester onwards  
+**Recommended for:** B.Sc. 2nd Semester onwards  
 **Prerequisites:** Python basics, Pandas, NumPy, Scikit-learn fundamentals
